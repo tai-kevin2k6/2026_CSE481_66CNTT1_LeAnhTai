@@ -41,5 +41,5 @@
 | **Frontend** (71.2%) | HTML/CSS | Với hỗ trợ AI |
 | **Styling** (1.8%) | CSS | Với hỗ trợ AI |
 
-Thanks for reading
-kevininyourarea
+- Thanks for reading ❤️
+- kevininyourarea
