@@ -1,8 +1,8 @@
 # 2026_CSE481_66CNTT1_LeAnhTai
 
 ## Mô tả dự án
-Dự án này là bài tập lớn của môn Công Nghệ Phần Mềm - Đại học Thủy Lợi
-Môn học này chủ yếu là kiến thức về làm việc nhóm
+- Dự án này là bài tập lớn của môn Công Nghệ Phần Mềm - Đại học Thủy Lợi
+- Môn học này chủ yếu là kiến thức về làm việc nhóm
 
 ## Cấu trúc dự án
 
